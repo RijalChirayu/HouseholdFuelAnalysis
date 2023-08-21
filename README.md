@@ -1,0 +1,1 @@
+This is a dummy data analysis project used from the data Census of Nepal 2011.
